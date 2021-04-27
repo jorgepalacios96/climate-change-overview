@@ -28,15 +28,15 @@ We have found a correlation between 38 different variables and people who believ
 Check the presentation to have a full overview about our findings!
 
 **Authors:**
-Nicolò Paolo Ferrari
-Jorge Palacios
-Marta Coll
+* Nicolò Paolo Ferrari
+* Jorge Palacios
+* Marta Coll
 
 **Content of this repo:**
-Source of the data: ESS (European Social Survey)
-Google Colab containing all the codes performed during the analysis
-Presentation (PDF format)
-Visualisations done in Tableau (see presentation)
+* Source of the data: ESS (European Social Survey)
+* Google Colab containing all the codes performed during the analysis
+* Presentation (PDF format)
+* Visualisations done in Tableau (see presentation)
 
 
 
