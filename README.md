@@ -1,3 +1,6 @@
+<img width="1211" alt="Captura de pantalla 2021-05-26 a las 16 36 39" src="https://user-images.githubusercontent.com/79402322/119680016-1df9e480-be41-11eb-8149-e896020fe807.png">
+
+
 **Introduction:**
 
 In this project, executed in collaboration with Ironhack, my team and I performed an exploratory data analysis focusing on people’s perception about climate change. 
